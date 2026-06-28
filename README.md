@@ -27,7 +27,7 @@ claude /plugin
 | Plugin                                            | Description                                            |
 | ------------------------------------------------- | ------------------------------------------------------ |
 | [show-me](https://github.com/mbailey/show-me)     | Let Claude show you files and web pages (tmux, neovim) |
-| [VoiceMode](https://github.com/mbailey/voicemode) | Natrual conversations with Claude Code                 |
+| [VoiceMode](https://github.com/mbailey/voicemode) | Natural conversations with Claude Code                 |
 
 ## Security scanning
 
