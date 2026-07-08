@@ -6,12 +6,12 @@
   },
   "metadata": {
     "description": "Mike Bailey's Skill Marketplace",
-    "version": "1.0.5"
+    "version": "1.0.6"
   },
   "plugins": [
     {
       "name": "show-me",
-      "description": "Let Claude show you files and web pages (tmux, neovim).",
+      "description": "Let Claude show you files, web pages, command output (tmux, neovim).",
       "source": {
         "source": "url",
         "url": "https://github.com/mbailey/show-me.git"
@@ -23,14 +23,6 @@
       "source": {
         "source": "url",
         "url": "https://github.com/mbailey/voicemode.git"
-      }
-    },
-    {
-      "name": "voicemode-channel",
-      "description": "VoiceMode Connect channel plugin -- receive voice calls from your phone or browser",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/mbailey/voicemode-channel.git"
       }
     }
   ]
